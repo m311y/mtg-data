@@ -1,4 +1,4 @@
-# Magic THe Gathering Data Visualization
+# Magic The Gathering Data Visualization
 
 ## Overview
 This project is a Jupyter notebook explaining the basics of Magic the Gathering through data visualization.
