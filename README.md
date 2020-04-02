@@ -22,7 +22,7 @@ This project is a Jupyter notebook explaining the basics of Magic the Gathering 
 ## Milestones
 
 - [x] Create a GitHub Repo and Start on a Project Plan
-- [ ] Connect to Scryfall API and get output in csv or JSON
+- [x] Connect to Scryfall API and get output in csv or JSON
 - [ ] Create sqlite database and create table from API data
 - [ ] Query data for card information to explain rarity, color, cmc, power, toughness, and put into a second table
 - [ ] Write a detailed explanation on these stats. and create a visualization for each
